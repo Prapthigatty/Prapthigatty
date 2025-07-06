@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Prapthi A
 
 > MCA Student at St Aloysius Institute of Mnagement and IT(AIMIT), Mangalore  
-> Passionate about Web DevelopmeT and Machine Learning  
+> Passionate about Web Development,Machine Learning  and coding.
 > Developed a business model for: *Smart Attendance System using IoT and Facial Recognition"
 > Worked on Online Movie Ticket Booking System
 
