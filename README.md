@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi 👋 I’m Prapthi A, an MCA student who enjoys building web applications and exploring new technologies.  <br>I’m passionate about learning through hands-on projects and continuously improving my skills in software development.<br>
+Hi 👋 I’m Prapthi A
+An MCA student who enjoys building web applications and exploring new technologies.  <br>I’m passionate about learning through hands-on projects and continuously improving my skills in software development.<br>
 
 
 ## 🌐 Socials:
