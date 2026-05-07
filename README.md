@@ -18,6 +18,4 @@ An MCA student who enjoys building web applications and exploring new technologi
 ---
 [![](https://visitcount.itsvg.in/api?id=Prapthigatty&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Prapthigatty](https://github.com/ryo-ma/github-profile-trophy)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
